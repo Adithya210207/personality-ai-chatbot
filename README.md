@@ -7,7 +7,7 @@ A feature-rich desktop AI chatbot application built with Python and Tkinter, pow
 ## 🌟 Key Features
 
 - **Distinct Character Personalities**:
-  - 🎤 **Hatsune Miku**: Energetic, musical, supportive vocaloid persona.
+  - 🎤 **Miku Nakano**: Shy, loyal, supportive persona.
   - 💙 **Rem**: Loyal, gentle, and devoted maid persona from Re:Zero.
   - ✨ **Yuhee**: Cheerful, expressive, and engaging AI companion.
   - ⚔️ **Kirito**: Calm, tactical, and determined gamer/swordsman persona from Sword Art Online.
