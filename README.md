@@ -100,6 +100,17 @@ python Trio_chat_yuhee_and_miku.py
 
 ---
 
-## 📄 License
+## 📄 Copyright & Terms of Use
 
-This project is open source and available under the [MIT License](./LICENSE).
+© 2026 Adithya V. All Rights Reserved.
+
+This repository is published for portfolio and educational purposes.
+You may view the source code to understand the implementation.
+
+You may NOT:
+- Copy substantial portions of this project.
+- Redistribute or republish this project.
+- Use this code in commercial or academic work without prior permission.
+- Present this work as your own.
+
+If you'd like to use any part of this project, please contact me first.
