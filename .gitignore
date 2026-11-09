@@ -13,6 +13,12 @@ dist/
 *.gguf
 Documentary/*.gguf
 
+# Chat history & sample files
+*history as sample*.json
+*history as sample*
+*_history as sample*
+*_history*.json
+
 # Virtual environments
 .venv/
 venv/
