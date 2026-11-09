@@ -34,7 +34,7 @@ A feature-rich desktop AI chatbot application built with Python and Tkinter, pow
 ```
 .
 ├── Anime_personallity_Ai_chatbox.py    # Main launcher GUI
-├── Miku_ai_chatbot.py                  # Hatsune Miku Chatbot interface
+├── Miku_ai_chatbot.py                  # Miku Nakano Chatbot interface
 ├── Rem_ai_Chatbot.py                   # Rem Chatbot interface
 ├── Yuhee_ai_chatbot.py                 # Yuhee Chatbot interface
 ├── kirito_ai_chatbot.py                # Kirito Chatbot interface
